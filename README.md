@@ -8,7 +8,7 @@
 
 ## 🛠 Skills & Tools
 - **Languages:** JavaScript, TypeScript , SQL
-- **Frameworks & Tools:** Selenium, Jest, Docker, WebSocket
+- **Frameworks & Tools:**Express, MongoDB , SQLite , Sql Server, Git , Selenium , Jest , Docker , WebSocket
 - **Platforms:** Linux
 - **Cybersecurity:** Secure coding practices, basic penetration testing
 - **Data Structures & Algorithms:** Proficient in designing and implementing efficient solutions
